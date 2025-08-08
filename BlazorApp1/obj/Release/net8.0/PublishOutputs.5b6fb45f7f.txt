@@ -1,0 +1,7 @@
+C:\Users\devanshi\Documents\AZ-204\BlazorApp1\BlazorApp1\build\BlazorApp1.exe
+C:\Users\devanshi\Documents\AZ-204\BlazorApp1\BlazorApp1\build\appsettings.Development.json
+C:\Users\devanshi\Documents\AZ-204\BlazorApp1\BlazorApp1\build\appsettings.json
+C:\Users\devanshi\Documents\AZ-204\BlazorApp1\BlazorApp1\build\BlazorApp1.dll
+C:\Users\devanshi\Documents\AZ-204\BlazorApp1\BlazorApp1\build\BlazorApp1.deps.json
+C:\Users\devanshi\Documents\AZ-204\BlazorApp1\BlazorApp1\build\BlazorApp1.runtimeconfig.json
+C:\Users\devanshi\Documents\AZ-204\BlazorApp1\BlazorApp1\build\BlazorApp1.pdb
